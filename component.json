@@ -5,7 +5,7 @@
   "keywords": ["typeof", "type", "utility"],
   "dependencies": {},
   "development": {
-    "component/assert": "*"
+    "segmentio/assert": "^0.5.4"
   },
   "scripts": [
     "index.js"
